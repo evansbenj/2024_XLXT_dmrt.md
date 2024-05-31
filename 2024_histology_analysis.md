@@ -4,6 +4,8 @@ We are interested in quantifying sperm in histological sections. This is difficu
 
 As an example, sample 1841 is a wildtype XL male. Using a 20X image, 342765 out of 6813045 pixels (0.05 = 5%) were sperm. 
 
+For 192AA (need to update this number), which is trop and maybe the knockout, 119316 out of 4915200 (0.0242 = 2.4%)
+
 Directions:
 ```
 Open the file in GIMP
