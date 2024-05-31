@@ -15,7 +15,7 @@ In the main menu click Edit > Paste as > New Layer
 Click on the New Layer on the right side
 On the left, change the foreground color to green by clicking on the upper left square that overlaps another square
 In the main menu click Edit > Fill with FG color
-On the left, click on the eraser tool; change the size to ~20  and the hardness/brush setting to 1
+On the left, click on the eraser tool; change the size to ~50  and the hardness/brush setting to 1, change opacity to 100, change aspect ratio to 0
 While you are on the pasted layer, erase any green that is not over sperm
 In the main menu click Windows > Dockable Dialogs > Histogram
 In the main menu click Select > By Color; the number of pixels for the selected color is in the histogram
