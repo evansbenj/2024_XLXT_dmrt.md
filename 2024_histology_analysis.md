@@ -8,7 +8,8 @@ For 192AA (need to update this number), which is trop and maybe the knockout, 11
 
 Directions:
 ```
-Open the file in GIMP
+If the format of the image is still Zeiss (.czi) then use the free software Fuji to open it. Then save it as a .tif file
+Open the .tif file in GIMP
 In the main menu click Windows > Dockable Dialogs > Histogram
 In the main menu click Select > By Color 
 Adjust the threshold to ~30 on left hand side
