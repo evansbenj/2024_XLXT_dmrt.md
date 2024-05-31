@@ -9,13 +9,13 @@ Directions:
 Open the file in GIMP
 In the main menu click Windows > Dockable Dialogs > Histogram
 In the main menu click Select > By Color 
-Adjust the threshold to ~15 on left hand side
+Adjust the threshold to ~30 on left hand side
 In the main menu click Edit > Copy
 In the main menu click Edit > Paste as > New Layer
 Click on the New Layer on the right side
 On the left, change the foreground color to green by clicking on the upper left square that overlaps another square
 In the main menu click Edit > Fill with FG color
-On the left, click on the eraswe tool; change the size to ~20  and the hardness/brush setting to 1
+On the left, click on the eraser tool; change the size to ~20  and the hardness/brush setting to 1
 While you are on the pasted layer, erase any green that is not over sperm
 In the main menu click Windows > Dockable Dialogs > Histogram
 In the main menu click Select > By Color; the number of pixels for the selected color is in the histogram
