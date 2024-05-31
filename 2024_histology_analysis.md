@@ -24,6 +24,7 @@ Now make a new layer:
 In the main menu click Layer > New Layer
 Change the foreground color to bright red
 select the new layer on the right side
+Make sure you have nothing selected (main menu Select > None)
 Use the paintbucket tool to fill the new layer with red
 In the main menu click Select > By Color; the number of pixels for the selected color is in the histogram
 ```
