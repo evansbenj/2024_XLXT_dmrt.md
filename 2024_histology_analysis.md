@@ -8,7 +8,10 @@ For 192AA (need to update this number), which is trop and maybe the knockout, 11
 
 Directions:
 ```
-If the format of the image is still Zeiss (.czi) then use the free software Fuji to open it. Then export it it as an image (.tif) file. The image must be exported not "Save As" because the latter saves a black and white version for some reason.
+If the format of the image is still Zeiss (.czi) then use the free software Fuji to open it.
+    Export it it as an image (.tif) file.
+    The image must be exported not "Save As" because the latter saves a black and white version for some reason.
+
 Open the .tif file in GIMP
 In the main menu click Windows > Dockable Dialogs > Histogram
 In the main menu click Select > By Color 
