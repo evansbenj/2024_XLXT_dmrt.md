@@ -15,7 +15,7 @@ If the format of the image is still Zeiss (.czi) then use the free software Fuji
 Open the .tif file in GIMP
 In the main menu click Windows > Dockable Dialogs > Histogram
 In the main menu click Select > By Color 
-Adjust the threshold to ~30 on left hand side
+Adjust the threshold to ~30 on left hand side. If you don't see the "Select by Color" options with the threshold, you can double click on the tool menue that looks like a TV with a circle inside the screen and two circles below the screen.
 In the main menu click Edit > Copy
 In the main menu click Edit > Paste as > New Layer
 Click on the New Layer on the right side
